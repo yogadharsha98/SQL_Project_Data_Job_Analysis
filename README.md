@@ -58,7 +58,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Wide Salary Range :** Top 10 paying data analyst roles span from $184,000 to $650,000, indicating significant salary potential in the field.
 - **Job Title Variety :** There's a high dversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
-![Top Paying roles](assets\top_paying_roles.png)
+![Top Paying roles](assets/top_paying_roles.png)
 
 _Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results_
 
